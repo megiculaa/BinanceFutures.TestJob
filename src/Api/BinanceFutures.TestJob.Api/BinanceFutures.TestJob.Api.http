@@ -1,0 +1,6 @@
+@BinanceFutures.TestJob.Api_HostAddress = http://localhost:5255
+
+GET {{BinanceFutures.TestJob.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
